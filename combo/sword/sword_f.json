@@ -1,0 +1,136 @@
+{
+  "trialLabel": "Bonus: Bomb Launch",
+  "tutorialSetup": {
+    "positions": [
+      -584823835768610,
+      450359962737049
+    ]
+  },
+  "setup": {
+    "versusMode": "tutorial",
+    "matchId": 1781902563439,
+    "stageId": "train_day",
+    "players": [
+      {
+        "playerIndex": 0,
+        "characters": [
+          {
+            "charId": "sword",
+            "colorIndex": 0,
+            "assistIndex": 0
+          }
+        ]
+      },
+      {
+        "playerIndex": 1,
+        "characters": [
+          {
+            "charId": "sword",
+            "colorIndex": 1,
+            "assistIndex": 0
+          }
+        ]
+      }
+    ],
+    "settings": {
+      "clock": 300,
+      "meter": 1
+    }
+  },
+  "trial": {
+    "duration": 168,
+    "events": [
+      [
+        "sword",
+        "P",
+        "G",
+        [
+          207
+        ],
+        "Sword_Special_Grenade_Toss"
+      ],
+      [
+        "sword",
+        "H",
+        "G",
+        [
+          205
+        ],
+        "OA_Normal_5B"
+      ]
+    ],
+    "inputs": [
+      [
+        [
+          26,
+          6000000
+        ],
+        [
+          27,
+          2000000
+        ],
+        [
+          28,
+          2000000
+        ],
+        [
+          29,
+          2000000
+        ],
+        [
+          30,
+          2000000
+        ],
+        [
+          31,
+          2000000
+        ],
+        [
+          32,
+          3000000
+        ],
+        [
+          68,
+          600000000
+        ],
+        [
+          69,
+          200000000
+        ],
+        [
+          70,
+          200000000
+        ],
+        [
+          71,
+          200000000
+        ],
+        [
+          72,
+          200000000
+        ],
+        [
+          73,
+          200000000
+        ],
+        [
+          74,
+          200000000
+        ],
+        [
+          75,
+          200000000
+        ],
+        [
+          76,
+          200000000
+        ],
+        [
+          77,
+          300000000
+        ]
+      ],
+      []
+    ]
+  }
+}
