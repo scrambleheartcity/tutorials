@@ -52,44 +52,11 @@
       ],
       [
         "goth",
-        "P",
-        "G",
-        [
-          203,
-          207
-        ],
-        "Goth_Charge_Mortar"
-      ],
-      [
-        "goth",
-        "P",
-        "G",
-        [],
-        "Goth_Quick_Mortar"
-      ],
-      [
-        "goth",
-        "P",
-        "G",
-        [
-          205
-        ],
-        "OA_Normal_5B"
-      ],
-      [
-        "goth",
-        "P",
-        "G",
-        [
-          205
-        ],
-        "Goth_Charge_5B"
-      ],
-      [
-        "goth",
         "H",
         "G",
-        [],
+        [
+          205
+        ],
         "OA_Normal_5B"
       ],
       [
